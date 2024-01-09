@@ -1,0 +1,26 @@
+------------------
+GAME OVER! SCORE:       13
+AVERAGE SCORE SO FAR:   6.4783
+AVERAGE SCORE LAST 10:  12
+AVERAGE SCORE LAST 100: 8.06
+EPISODE: 5000 / 5000
+WEIGHTS: 
+ -181.0289
+  -78.7512
+ -204.0332
+   11.6617
+
+------------------
+LOWERING EPS!
+
+eps =
+
+   5.0000e-06
+
+GAME OVER! SCORE:       1
+AVERAGE SCORE SO FAR:   6.4772
+AVERAGE SCORE LAST 10:  12
+AVERAGE SCORE LAST 100: 8.06
+Successfully saved Q-weights!
+Done training agent!
+You may try to set test_agent = true to test agent if you want
